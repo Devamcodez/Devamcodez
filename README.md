@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Devamcodez/Devamcodez/main/DEVAM%20LIYA_BANNER.png" width="100%" alt="Banner"/>
 # Hi, I'm Devam 👋
 
 Year 12 student in Doha building at the intersection of aerospace and robotics.
