@@ -41,6 +41,6 @@ from SGP4-based debris tracking to Mars mission architecture.
 
 ## 📫 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/devam-liya)
 
 > *"The Earth is the cradle of humanity, but one cannot live in a cradle forever."* — Tsiolkovsky
